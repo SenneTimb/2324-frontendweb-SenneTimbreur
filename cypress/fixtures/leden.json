@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": 100,
+      "voornaam": "Bo",
+      "naam": "Vervynck",
+      "geboortedatum": "2023-12-13",
+      "afdelig": "pinkel",
+      "ouder": {
+        "id": 5,
+        "naam": "Vervynck"
+      }
+    },
+    {
+      "id": 101,
+      "voornaam": "Bo'tje",
+      "naam": "Vervynck",
+      "geboortedatum": "2023-12-13",
+      "afdelig": "pinkel",
+      "ouder": {
+        "id": 5,
+        "naam": "Vervynck"
+      }
+    }
+  ]
+}
